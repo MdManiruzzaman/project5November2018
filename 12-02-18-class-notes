@@ -1,0 +1,70 @@
+12-02-18 class notes
+
+OOP:
+
+Inheritance: a class can acquire properties from another class.
+
+Parents—>Children.                               Single Inheritance
+GrandParents—>Parents—>Children.   Multilevel Inheritance
+
+GrandParents—>Parents
+GrandParents—>GreatGrandChildren   Hierarchical Inheritance
+
+
+Polymorphism: An object can take on many form.
+
+There are two type of Polymorphism:
+  Method Overloading: Happen in compile time.  Early binding.   Static binding
+  Method Overriding :   Happen in run time          Late binding.    Dynamic binding
+
+Keywords:
+
+Final:
+
+Final in terms of variable
+Final in terms of method
+
+TODO: finally and finalize
+
+Logical Operator/Conditional/Comparing operator :
+
+<   >   =.   >=.  <=.  ==.  !=
+|| &&
+
+
+Truth Table:
+
+
+Java API: https://docs.oracle.com/javase/7/docs/api/
+
+System.in
+System.out
+Scanner
+Random
+BufferedReader
+FileReader
+Exception
+String
+Math
+
+
+Coming Next….
+
+Loop:
+
+
+Exception Handling 
+
+
+Array
+
+
+DataStructure
+
+Algorithm Design
+
+
+Unit Testing: jUnit/testNG
+
+Intellij
+
